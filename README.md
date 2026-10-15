@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Computer Engineering at Lublin University of Technology<br>⚡ Fun fact: I really enjoy creative work not only desgining UIs but also oil painting. 
+🌱 I’m a graduate of Lublin University of Technology in Computer Engineering <br>⚡ Fun fact: I really enjoy creative work not only desgining UIs but also oil painting. 
 
 
 ## 🌐 Socials:
